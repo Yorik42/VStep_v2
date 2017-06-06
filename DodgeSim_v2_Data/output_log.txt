@@ -1,0 +1,79 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 970M (ID=0x13d8)
+    Vendor:   NVIDIA
+    VRAM:     3040 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\yorik\Desktop\Vstepv2\DodgeSim_v2_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\yorik\Desktop\Vstepv2\DodgeSim_v2_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\yorik\Desktop\Vstepv2\DodgeSim_v2_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\yorik\Desktop\Vstepv2\DodgeSim_v2_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\yorik\Desktop\Vstepv2\DodgeSim_v2_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\yorik\Desktop\Vstepv2\DodgeSim_v2_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\yorik\Desktop\Vstepv2\DodgeSim_v2_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\yorik\Desktop\Vstepv2\DodgeSim_v2_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.126 seconds
+Platform assembly: C:\Users\yorik\Desktop\Vstepv2\DodgeSim_v2_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\yorik\Desktop\Vstepv2\DodgeSim_v2_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.661332 ms
+My name is: player0. My starting position is: (6.0, 0.0, 3.0). My destination is: (1.0, 0.0, -9.0). My radius is: 1.5. My speed is: 0.5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+My name is: player1. My starting position is: (-4.0, 0.0, -2.0). My destination is: (-5.0, 0.0, -6.0). My radius is: 1.5. My speed is: 0.5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+My name is: player2. My starting position is: (-1.0, 0.0, 5.0). My destination is: (-4.0, 0.0, -5.0). My radius is: 1.5. My speed is: 0.5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+My name is: player3. My starting position is: (-10.0, 0.0, -10.0). My destination is: (2.0, 0.0, -7.0). My radius is: 1.5. My speed is: 0.5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+My name is: player4. My starting position is: (3.0, 0.0, -2.0). My destination is: (2.0, 0.0, -3.0). My radius is: 1.5. My speed is: 0.5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 198c -> priority: 1 
+  Thread -> id: 8a8 -> priority: 1 
+Contact is made!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Contact is made!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Contact is made!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Contact is made!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Contact is made!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Contact is made!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Contact is made!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Contact is made!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
